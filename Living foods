@@ -1,13 +1,13 @@
 <html>
 <body>
 <form action="/action_page.php">
-THis is created for production
+
   <div class="imgcontainer">
     <img src="img_avatar2.png" alt="Avatar" class="avatar">
   </div>
 
   <div class="container">
-    <label><b>ravi testing beanstalk deployment over aws</b></label>
+    <label><b>THis is created for production</b></label>
     <input type="text" placeholder="Enter Username" name="uname" required>
 
     <label><b>Password</b></label>
